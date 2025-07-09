@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Huu Ann Tran
+# 👋 Hi there, welcome to my GitHub!
 
 🎯 **Data Scientist**  
 🌱 Driving Insightful, Ethical Data Solutions for People and the Planet
