@@ -25,7 +25,7 @@ Through hands-on academic and independent projects, I’ve built skills in **Pyt
 
 - **Languages**: Python, R, SQL  
 - **Techniques**: Machine learning, regression, classification, forecasting, NLP  
-- **Libraries**: scikit-learn, pandas, numpy, matplotlib, seaborn, ggplot2, Leaflet  
+- **Libraries**: scikit-learn, pandas, numpy, matplotlib, seaborn, ggplot2, Leaflet, PyTorch  
 - **Tools**: Jupyter, RStudio, Google Colab  
 - **Soft Skills**: Stakeholder communication, team collaboration, cross-functional support
 
@@ -36,6 +36,10 @@ Through hands-on academic and independent projects, I’ve built skills in **Pyt
 I’m driven by opportunities that combine **data science, teamwork, and purpose** — helping organisations make **sustainable, people-first decisions** grounded in insight and empathy.
 
 ---
+
+## 🤓 Current Data Science Project(s)
+
+Currently, I am working on a demand forecasting project using Python where I am evaluating different models in their ability to forecast product demand. So far I have used linear regression and time-series forecasting.
 
 ## 📫 Let’s Connect
 
